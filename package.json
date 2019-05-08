@@ -1,0 +1,12 @@
+{
+  "name": "CS4440_RESTapi",
+  "version": "1.0.0",
+  "description": "Project for CS4440 Cloud",
+  "main": "server.js",
+  "author": "Nicolas Sirimongkol and Alex Dang",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4"
+  }
+}
